@@ -1,0 +1,1 @@
+Moduł do framework'u sklepowego prestashop, utworzony w ramach praktyk studenckich z firmą Lastlevel, pozwala utworzyć i zarządzać wieloma galeriami ze zdjęciami.
